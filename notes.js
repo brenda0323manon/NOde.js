@@ -84,7 +84,7 @@ const saveNotes = (notes) => {
     }
  }
 
-//It allows to export the function named getNotes
+//It allows to export the following functions
 module.exports = {
     getNotes: getNotes,
     addNotes: addNotes,
